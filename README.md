@@ -72,7 +72,7 @@ Additionally, we also incorporate mean target encoding into our exploration. In 
 
 **Multiple Linear Regression**
 
-Multiple linear regression is a statistical technique used to model the relationship between a dependent variable and multiple (two or more) independent variables. In this case, our dependent (Y) variable is _ **realSum** _ and our remaining predictor variables are independent (X).
+Multiple linear regression is a statistical technique used to model the relationship between a dependent variable and multiple (two or more) independent variables. In this case, our dependent (Y) variable is **realSum** and our remaining predictor variables are independent (X).
 
 **Random Forest Regression**
 
@@ -80,7 +80,7 @@ Random Forest Regression forms a model using ensemble learning. It takes subsets
 
 **Neural Network Regression**
 
-In this technique, a neural network is trained to learn the mapping between the input variables (predictors) and the output variable (_ **realSum** _) in a continuous manner. The neural network consists of multiple layers of interconnected nodes, or neurons, which receive inputs, perform calculations, and generate outputs. Each neuron receives inputs from other neurons or directly from the input variables, applies a transformation to those inputs using an activation function, and passes the transformed output to the next layer of neurons. During training, the neural network adjusts its weights and biases through an optimization process to minimize the difference between its predicted output and the actual output.
+In this technique, a neural network is trained to learn the mapping between the input variables (predictors) and the output variable (**realSum**) in a continuous manner. The neural network consists of multiple layers of interconnected nodes, or neurons, which receive inputs, perform calculations, and generate outputs. Each neuron receives inputs from other neurons or directly from the input variables, applies a transformation to those inputs using an activation function, and passes the transformed output to the next layer of neurons. During training, the neural network adjusts its weights and biases through an optimization process to minimize the difference between its predicted output and the actual output.
 
 **R^2 Values**
 
@@ -110,8 +110,9 @@ That being said, if we are more interested in predicting the price more accurate
 
 We conducted a preliminary test to see whether there is enough evidence to believe a spatial approach is warranted. We tested for heteroskedasticity, which indicates whether the data has uniform variance or not. It was found that the data is indeed heteroskedastic and thus why the regression models are not able to create highly accurate predictions. Thus, we recommend building a model that can take spatial factors into account such as spatial lag regression.
 
-### Contributions
+### Contributions  
 Code - Etienne, Matthew, Devlin
 Documentation - Etienne, Matthew, Devlin
 Presentation - Etienne, Matthew, Devlin
 
+### References  
