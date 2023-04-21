@@ -1,4 +1,4 @@
-# SC1015_Mini-Project
+# SC1015_Mini-Project_B137_Group9
 
 ## Problem Formulation
 
