@@ -108,7 +108,7 @@ That being said, if we are more interested in predicting the price more accurate
 
 ## Future Recommendations
 
-We conducted a preliminary test to see whether there is enough evidence to believe a spatial approach is warranted. We tested for heteroskedasticity, which indicates whether the data has uniform variance or not. It was found that the data is indeed heteroskedastic and thus why the regression models are not able to create highly accurate predictions. Thus, we recommend building a model that can take spatial factors into account such as spatial lag regression.
+We conducted a preliminary test to see whether there is enough evidence to believe a spatial approach is warranted. We tested for heteroskedasticity, which indicates whether the data has uniform variance or not. It was found that the data is indeed heteroskedastic and thus why the regression models are not able to create highly accurate predictions. Hence, we recommend building a model that can take spatial factors into account such as spatial lag regression.
 
 ### Contributions  
 **Code** - Etienne, Matthew, Devlin  
