@@ -116,5 +116,5 @@ We conducted a preliminary test to see whether there is enough evidence to belie
 **Presentation** - Etienne, Matthew, Devlin  
 
 ### References  
-Spatial Econometrics: https://sustainability-gis.readthedocs.io/en/latest/lessons/L4/spatial_econometrics.html
+Spatial Econometrics: https://sustainability-gis.readthedocs.io/en/latest/lessons/L4/spatial_econometrics.html  
 Heteroskedasticity test: https://www.statology.org/breusch-pagan-test/
