@@ -2,7 +2,7 @@
 
 ## Problem Formulation
 
-Since the end of the COVID pandemic, the tourism industry in Europe is booming again. A lot of tourists consider booking an AirBnB over a hotel because they tend to be more affordable. However, different listings offer different features at a wide range of prices. Through this project, we intend to predict the price of an AirBnB based on its features and help tourists determine whether their chosen listings are reasonable priced.
+Since the end of the COVID pandemic, the tourism industry in Europe is booming again. A lot of tourists consider booking an AirBnB over a hotel because they tend to be more affordable. However, different listings offer different features at a wide range of prices. Through this project, we intend to predict the price of an AirBnB based on its features and help tourists determine whether their chosen listings are reasonably priced.
 
 ## Problem Statement
 
